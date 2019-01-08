@@ -1,0 +1,10 @@
+
+[0822/150203.802:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: ������ʱ (0x2ee2)
+[0917/170245.562:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: ������ʱ (0x2ee2)
+[0921/160129.702:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: ������ʱ (0x2ee2)
+[0926/181253.173:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: ������ʱ (0x2ee2)
+[0822/150203.802:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: ������ʱ (0x2ee2)
+[1106/151416.017:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: ������ʱ (0x2ee2)
+[1106/171237.174:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: ������ʱ (0x2ee2)
+[1119/102506.845:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: ������ʱ (0x2ee2)
+

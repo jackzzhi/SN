@@ -1,0 +1,50 @@
+
+@import '../../../assets/stylus/methods'
+.fixed-top
+  position:fixed;
+  width:100%;
+  left:0;
+  top:0;
+  z-index:9999;
+  background: #5b96ff;
+.nav-tab
+  width:100%;
+  background:#5B96FF;
+  position:fixed;
+  width:100%;
+  left:0;
+  iphonefixtop(59px)
+  z-index:9999;
+  .tab
+    width:32%;
+    margin:0 auto;
+    background: #5b96ff;
+    .mint-tab-item
+      padding:10px 0 6px 0;
+      &.is-selected
+        position:relative;
+        border-bottom:none;
+        margin-bottom:0;
+        .mint-tab-item-label
+          position:relative;
+          .selected_line
+            display:block;
+            width: 50%;
+            height:2px;
+            margin:5px auto 0;
+            background:#fff;
+          .tab-name
+            font-family: PingFangSC-Semibold;
+            color: #fff;
+            font-size:16px;
+            text-align:right;
+      .tab-name
+        font-size:16px;
+        color: #D0ECFF;
+        font-weight:normal;
+        font-family: PingFangSC-Medium;
+        text-align:right;
+
+
+
+

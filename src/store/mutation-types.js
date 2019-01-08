@@ -1,0 +1,45 @@
+export const SAVE_USERID ='save_userid'
+export const SAVE_DEVICEInfO='save_deviceinfo'
+export const SAVE_ORG='save_org'
+
+//loading show
+export const SAVE_LOADINGSHOW='SAVE_LOADINGSHOW'
+
+//选择机构
+export const SAVE_ORGCODELIST = 'SAVE_ORGCODELIST'
+export const SAVE_ORGCODENAME = 'SAVE_ORGCODENAME'
+export const SAVE_PROVINCECODE = 'SAVE_PROVINCECODE'
+export const SAVE_CITYCODE = 'SAVE_CITYCODE'
+export const SAVE_FIRSTORGCODENAME = 'SAVE_FIRSTORGCODENAME'
+export const SAVE_SECONDORGCODENAME = 'SAVE_SECONDORGCODENAME'
+export const SAVE_THIRDORGCODENAME = 'SAVE_THIRDORGCODENAME'
+
+//底部导航当前选中的index
+export const SAVE_FOOTERCURRENT = 'SAVE_FOOTERCURRENT'
+
+//当前是否为iOS机型
+export const SAVE_ISIOS = 'SAVE_ISIOS'
+//当前是否为Android机型
+export const SAVE_ISANDROID = 'SAVE_ISANDROID'
+//当前是否为iPhonex机型
+export const SAVE_ISIPHONEX = 'SAVE_ISIPHONEX'
+
+//消息相关
+export const SAVE_MSGUNREADTOTAL = 'SAVE_MSGUNREADTOTAL'
+export const SAVE_NOTICEUNREADTOTAL = 'SAVE_NOTICEUNREADTOTAL'
+export const SAVE_NEWSUNREADTOTAL = 'SAVE_NEWSUNREADTOTAL'
+//客群id
+export const SAVE_USERPORTRAITID = 'SAVE_USERPORTRAITID'
+//精准画像id
+export const SAVE_PORTRAIT_DETAIL_ID = 'SAVE_PORTRAIT_DETAIL_ID'
+//排行榜id
+export const SAVE_USERRANKID = 'SAVE_USERRANKID'
+//当前h5版本号h5Version
+export const SAVE_H5VERSION = 'SAVE_H5VERSION'
+
+
+//新向前理财 1.5.0
+export const SAVE_TIMEBATTLE_HOME_NAVS = 'SAVE_TIMEBATTLE_HOME_NAVS'
+export const SAVE_TIMEBATTLE_KPI_NAVS = 'SAVE_TIMEBATTLE_KPI_NAVS'
+
+
